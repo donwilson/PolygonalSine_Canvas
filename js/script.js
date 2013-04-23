@@ -213,7 +213,7 @@
 		
 		// Background lines
 		(function() {
-			var color_line = "#d5d5d5";
+			var color_line = "#f5f5f5";
 			var color_divider = "#e0e0e0";
 			
 			context_bg.beginPath();
