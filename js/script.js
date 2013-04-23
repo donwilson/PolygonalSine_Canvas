@@ -38,7 +38,7 @@
 			'hexagon':	{
 				'center':	{'x': 75.5, 'y': 375.5},
 				'radius':	56,
-				'color':	"#0f0",
+				'color':	"#0c0",
 				'color_light':	"#8e8",
 				'angles':	[]
 			}
