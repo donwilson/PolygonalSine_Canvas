@@ -599,8 +599,6 @@
 		}
 		
 		
-		
-		
 		var canvas_frames = 0;
 		
 		var canvas_loop = function() {
@@ -624,25 +622,7 @@
 			requestAnimationFrame(canvas_loop);
 		};
 		
-		
 		canvas_loop();
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	} else {
 		alert("Canvas not supported in this browser.");
 	}
