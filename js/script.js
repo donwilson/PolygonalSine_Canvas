@@ -458,8 +458,8 @@
 			for(var i = 1; i <= 359; i++) {
 				df = i + angle_at;
 				
-				if(df > 358) {
-					df = df - 359;
+				if(df >= 360) {
+					df = df - 360;
 				}
 				
 				context.lineTo(
@@ -520,8 +520,8 @@
 			for(var i = 1; i <= 359; i++) {
 				df = i + angle_at;
 				
-				if(df > 358) {
-					df = df - 359;
+				if(df >= 360) {
+					df = df - 360;
 				}
 				
 				context.lineTo(
