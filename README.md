@@ -10,6 +10,8 @@ All wave points are calculated and stored into an array before the animation eve
 
 I've tried to keep the colors, dimensions, and animation speed to that of the original GIF; the frame rate is much higher than the original GIF, producing a far smoother animation.
 
-A [Live Demo][3] is available.
+**[Live example here][3]**
 
   [3]: http://donwilson.github.io/PolygonalSine_Canvas/waves.html
+
+![Preview of Polygonal Sine](preview.png?raw=true "Preview")
